@@ -9,5 +9,7 @@ public class PublicContext {
 	public static String downloadPath=System.getProperty("user.dir")+File.separator+"downloads"+File.separator;
 	public static String driverPath="./drivers/";
 	public static String ScreenshotPAth="./ScreenShots/";
+	public static String testdataFileLoc="./TestDataFiles/";
+	public static String testdataFileExt=".xlsx";
 	
 }
