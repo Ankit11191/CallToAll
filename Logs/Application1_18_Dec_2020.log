@@ -1,0 +1,25 @@
+2020-12-18 21:56:41,104 [main] INFO BesentTech.CallToAll.Logger.Logging - Driver Loadded Successfully
+2020-12-18 21:56:42,713 [main] INFO BesentTech.CallToAll.Logger.Logging - https://unwiredlearning.com/blog/selenium-interview-questions-pdf/ url launched successfully.
+2020-12-18 21:57:13,221 [main] INFO BesentTech.CallToAll.Logger.Logging - Driver Loadded Successfully
+2020-12-18 21:57:15,304 [main] INFO BesentTech.CallToAll.Logger.Logging - https://unwiredlearning.com/blog/selenium-interview-questions-pdf/ url launched successfully.
+2020-12-18 21:59:06,714 [main] INFO BesentTech.CallToAll.Logger.Logging - Driver Loadded Successfully
+2020-12-18 21:59:09,309 [main] INFO BesentTech.CallToAll.Logger.Logging - https://unwiredlearning.com/blog/selenium-interview-questions-pdf/ url launched successfully.
+2020-12-18 21:59:15,382 [main] FATAL BesentTech.CallToAll.Logger.Logging - Browser close successfully
+2020-12-18 22:01:10,195 [main] INFO BesentTech.CallToAll.Logger.Logging - Driver Loadded Successfully
+2020-12-18 22:01:34,366 [main] INFO BesentTech.CallToAll.Logger.Logging - https://unwiredlearning.com/blog/selenium-interview-questions-pdf/ url launched successfully.
+2020-12-18 22:01:41,371 [main] FATAL BesentTech.CallToAll.Logger.Logging - Browser close successfully
+2020-12-18 22:02:03,846 [main] INFO BesentTech.CallToAll.Logger.Logging - Driver Loadded Successfully
+2020-12-18 22:02:06,554 [main] INFO BesentTech.CallToAll.Logger.Logging - https://unwiredlearning.com/blog/selenium-interview-questions-pdf/ url launched successfully.
+2020-12-18 22:02:12,945 [main] FATAL BesentTech.CallToAll.Logger.Logging - Browser close successfully
+2020-12-18 22:03:47,132 [main] INFO BesentTech.CallToAll.Logger.Logging - Driver Loadded Successfully
+2020-12-18 22:04:11,330 [main] INFO BesentTech.CallToAll.Logger.Logging - https://unwiredlearning.com/blog/selenium-interview-questions-pdf/ url launched successfully.
+2020-12-18 22:04:17,405 [main] FATAL BesentTech.CallToAll.Logger.Logging - Browser close successfully
+2020-12-18 22:04:49,767 [main] INFO BesentTech.CallToAll.Logger.Logging - Driver Loadded Successfully
+2020-12-18 22:05:16,400 [main] INFO BesentTech.CallToAll.Logger.Logging - https://unwiredlearning.com/blog/selenium-interview-questions-pdf/ url launched successfully.
+2020-12-18 22:05:22,579 [main] FATAL BesentTech.CallToAll.Logger.Logging - Browser close successfully
+2020-12-18 22:26:27,683 [main] INFO BesentTech.CallToAll.Reporting.Logging - Driver Loadded Successfully
+2020-12-18 22:26:30,444 [main] INFO BesentTech.CallToAll.Reporting.Logging - https://unwiredlearning.com/blog/selenium-interview-questions-pdf/ url launched successfully.
+2020-12-18 22:26:36,411 [main] FATAL BesentTech.CallToAll.Reporting.Logging - Browser close successfully
+2020-12-18 22:33:42,275 [main] INFO BesentTech.CallToAll.Reporting.Logging - Driver Loadded Successfully
+2020-12-18 22:33:44,845 [main] INFO BesentTech.CallToAll.Reporting.Logging - https://unwiredlearning.com/blog/selenium-interview-questions-pdf/ url launched successfully.
+2020-12-18 22:33:50,772 [main] FATAL BesentTech.CallToAll.Reporting.Logging - Browser close successfully
